@@ -4,12 +4,18 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <title>City of Albemarle IOT Devices</title>
+  <script src="scripts/axios.min.js"></script>
+  <script src="scripts/conversational-forms.min.js"></script>
 </head>
 
 <body>
 
 <!-- Change this code here by copy and pasting your template on line 15 -->
-<p>Hello World!</p>
+<form id="mainConversation" cf-form>
+
+  <cf-robot-message cf-questions="Hello, Welcome to the City of Albemarle IoT Chat Bot"></cf-robot-message>
+  <cf-robot-message cf-questions="Before you being, remember, all information on this page is legal and retrieved from the Shodan API"></cf-robot-message>
+  <cf-robot-message cf-questions="The creator of this chat bot cannot be held liable for what you decide to do with this information"></cf-robot-message>
 
 </body>
 </html>
