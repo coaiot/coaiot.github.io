@@ -3,7 +3,7 @@ window.onload = function() {
       formEl: document.getElementById("form"),
       context: document.getElementById("cf-context"),
       submitCallback: function() {
-       conversationalForm.addRobotChatResponse("Alright, you are done."); 
+       console.log("DONE")
       }
     });
   };
