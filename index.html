@@ -4,27 +4,15 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <title>City of Albemarle IOT Devices</title>
-  <script src="scripts/axios.min.js"></script>
-  <script src="scripts/conversational-forms.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/space10-community/conversational-form@1.0.1/dist/conversational-form.min.js" crossorigin></script>
 </head>
 
 <body>
 
-    <form id="form" cf-form>
-
-        <cf-robot-message cf-questions="Hello my friend"></cf-robot-message>
-        <cf-robot-message cf-questions="Let's get started"></cf-robot-message>
-      
-        <label for="radio">
-          <input cf-questions="Ready to signup for our demo newsletter?" cf-label="Yes, let's begin!" type="radio" value="0">
-          Start
-        </label>
-        <input type="text" name="FNAME" cf-questions="What is your firstname?">
-        <input type="text" name="LNAME" cf-questions="What is your lastname?">
-        <input type="text" name="EMAIL" cf-questions="What is your email?">
-      </form>
-      <div id="cf-context" role="cf-context" cf-context></div>
+  <form id="form" cf-form cf-prevent-autofocus>
+    <input type="text" placeholder="some text" cf-questions="This text is from the attribute cf-questions (1/2)||This text is from the attribute cf-questions (2/2)" />
+  </form>
+  <div id="cf-context" role="cf-context" cf-context></div>
 
 </body>
-<script src="scripts/chatbotscript.js"></script>
 </html>
