@@ -23,11 +23,15 @@
 
     <cf-robot-message cf-questions="Ok, what are you looking for in the City of Albemarle IoT devices?"></cf-robot-message>
 
-    <input type="radio" name="searchFor" id="vmax-camera" cf-label="V MAX Cameras" />
+    <input type="radio" name="searchFor" id="vmax-cameras" value="vmax-cameras" cf-label="V MAX Cameras" />
     <input type="radio" name="searchFor" id="all-port-eighty" cf-label="All Port 80s" />
     <input type="radio" name="searchFor" id="linksys-routers" cf-label="Linksys Routers" />
 
     <cf-robot-message cf-questions="Ok, let's grab all the VMAX cameras" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
+
+    <fieldset cf-questions="Do you understand?" cf-conditional>
+        <input type="checkbox" name="verification" id="verification" cf-label="I understand" />
+      </fieldset>
 
   </form>
   <div id="cf-context" role="cf-context" cf-context></div>
