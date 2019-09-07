@@ -11,14 +11,21 @@
 <body>
 
   <form id="form" cf-form cf-prevent-autofocus>
-    <cf-robot-message cf-questions="Hello and Welcome to the City of Albemarle Chat bot"></cf-robot-message>
+    <cf-robot-message cf-questions="Hello and Welcome to the City of Albemarle IOT Chat bot"></cf-robot-message>
     <cf-robot-message cf-questions="Every few Weeks, I update myself from the Shodan API"></cf-robot-message>
+    <cf-robot-message cf-questions="All devices found are port 80 only."></cf-robot-message>
     <cf-robot-message cf-questions="Remember, the creator of this chat bot cannot be held liable for what you do with the information presented"></cf-robot-message>
     
     <fieldset cf-questions="Do you understand?">
       <input type="checkbox" name="verification" id="verification" cf-label="I understand" />
     </fieldset>
-    
+
+    <fieldset cf-questions="Ok great, Please tell me what you are looking for with City of Albemarle Devices?">
+      <input type="radio" name="vmax-cameras" id="vmax-camera" cf-label="V MAX Cameras" />
+      <input type="radio" name="all-port-eighty" id="all-port-eighty" cf-label="All Port 80s" />
+      <input type="radio" name="linksys-routers" id="linksys-routers" cf-label="Linksys Routers" />
+    </fieldset>
+
   </form>
   <div id="cf-context" role="cf-context" cf-context></div>
 
