@@ -15,7 +15,7 @@
     <cf-robot-message cf-questions="Hello and Welcome to the City of Albemarle IOT Chat bot"></cf-robot-message>
     <cf-robot-message cf-questions="Every few Weeks, I update myself from the Shodan API"></cf-robot-message>
     <cf-robot-message cf-questions="All devices found are port 80 only."></cf-robot-message>
-    <cf-robot-message cf-questions="Remember, the creator of this chat bot cannot be held liable for what you do with the information presented"></cf-robot-message>
+    <cf-robot-message cf-questions="Remember, the creator(19-Facez) of this chat bot cannot be held liable for what you do with the information presented"></cf-robot-message>
     
     <fieldset cf-questions="Do you understand?">
       <input type="checkbox" name="verification" id="verification" cf-label="I understand" />
@@ -28,8 +28,9 @@
     <input type="radio" name="searchFor" id="linksys-routers" cf-label="Linksys Routers" />
 
     <cf-robot-message cf-questions="Ok, let's grab all the VMAX cameras" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
-
-    <input type="text" cf-questions="This is a placeholder to stop auto looping"></input>
+    <cf-robot-message cf-questions="Information about VMAX camera"></cf-robot-message>
+    <cf-robot-message cf-questions="The default login is admin and there is no password" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
+    <cf-robot-message cf-questions="Here is a list of all VMAX cameras in Albemarle"></cf-robot-message>
 
   </form>
   <div id="cf-context" role="cf-context" cf-context></div>
