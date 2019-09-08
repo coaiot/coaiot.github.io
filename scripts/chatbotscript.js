@@ -1,6 +1,9 @@
-var flowStepCallback = function() {
+var flowCallback = function(dto, success, error) {
   console.log("CALLED")
+  success()
 }
+
+
 window.onload = function() {
     var conversationalForm = window.cf.ConversationalForm.startTheConversation({
       formEl: document.getElementById("form"),
