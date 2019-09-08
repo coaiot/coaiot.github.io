@@ -3,7 +3,8 @@ var flowCallback = function(dto, success, error) {
   if(window.stepCall == "verification") {
     window.stepCall = "iotSelect"
   } else if(window.stepCall == "iotSelect") {
-    var iotOptions = document.getElementsByName('searchFor');
+    var iotOptions = document.getElementsByName('searchFor')
+    console.log(iotOptions)
   }
 
   success()
