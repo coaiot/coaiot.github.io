@@ -10,7 +10,7 @@ var flowCallback = function(dto, success, error) {
         var checkedOption = iotOptions[i].value
         
         if(checkedOption == "vmax-cameras") {
-          console.log("You Selected VMAX Camera")
+          window.ConversationalForm.addRobotChatResponse("You Select V-MAX Cameras--FROM AUTOMATED INPUT")
         } else if(checkedOption == "all-port-eighty") {
           console.log("You Selected All Port Eighty")
         } else if(checkedOption == "linksys-routers") {
