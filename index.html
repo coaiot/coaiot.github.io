@@ -5,7 +5,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <title>City of Albemarle IOT Devices</title>
   <meta name="viewport" content= "width=device-width, initial-scale=1.0">
-  <script type="text/javascript" src="scripts/conversational-form.min.js" crossorigin></script>
+  <script type="text/javascript" src="scripts/conversational-form.min.js"></script>
+  <script type="text/javascript" src="scripts/axios.min.js"></script>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -30,10 +31,10 @@
     <cf-robot-message cf-questions="The default username for VMAX Cameras is admin" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
     <cf-robot-message cf-questions="The default password for VMAX Cameras is none(blank)" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
 
-    <fieldset cf-questions="Whenever you are ready, hit retrieve data button and I will get that Information for you">
+    <fieldset cf-questions="Whenever you are ready, hit the retrieve data button and I will get that Information for you">
       <input type="radio" name="dataDisplay" id="displayData" value="display-data" cf-label="Retrieve Data"></input>
     </fieldset>
-    
+
   </form>
   <div id="cf-context" role="cf-context" cf-context></div>
 
