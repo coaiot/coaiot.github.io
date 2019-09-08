@@ -30,7 +30,10 @@
     <cf-robot-message cf-questions="The default username for VMAX Cameras is admin" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
     <cf-robot-message cf-questions="The default password for VMAX Cameras is none(blank)" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
 
-
+    <fieldset cf-questions="Whenever you are ready, hit retrieve data button and I will get that Information for you">
+      <input type="radio" name="dataDisplay" id="displayData" value="display-data" cf-label="Retrieve Data"></input>
+    </fieldset>
+    
   </form>
   <div id="cf-context" role="cf-context" cf-context></div>
 
