@@ -13,7 +13,11 @@ var flowCallback = function(dto, success, error) {
       }
     }
   } else if(window.stepCall == "displayDataForSelection") {
-    console.log("I am here")
+
+    if(window.iotSelectionMade == "all-port-eighty") {
+      window.location.href = 'https://coaiot.github.io/scripts/iotData.json';
+    }
+
   }
 
   success()
