@@ -4,7 +4,14 @@ var flowCallback = function(dto, success, error) {
     window.stepCall = "iotSelect"
   } else if(window.stepCall == "iotSelect") {
     var iotOptions = document.getElementsByName('searchFor')
-    console.log(iotOptions)
+    for(var i = 0; i < iotOptions.length; i++) {
+
+      if(iotOptions[i].checked) {
+        console.log(iotOptions[i].value)
+        break;
+        
+      }
+    }
   }
 
   success()
