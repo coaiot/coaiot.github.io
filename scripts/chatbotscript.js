@@ -7,23 +7,13 @@ var flowCallback = function(dto, success, error) {
     for(var i = 0; i < iotOptions.length; i++) {
 
       if(iotOptions[i].checked) {
-        var checkedOption = iotOptions[i].value
-        
-        if(checkedOption == "vmax-cameras") {
-          window.ConversationalForm.addRobotChatResponse("Ok, let's grab all the VMAX Cameras")
-          .then(function() {
-            window.ConversationalForm.addRobotChatResponse("The default username for VMAX Cameras is admin")
-          })
-
-        } else if(checkedOption == "all-port-eighty") {
-          console.log("You Selected All Port Eighty")
-        } else if(checkedOption == "linksys-routers") {
-          console.log("You selected linksys routers")
-        }
+        window.iotSelectionMade = iotOptions[i].value
+        window.stepCall = "displayDataForSelection"
         break;
-
       }
     }
+  } else if(window.stepCall == "displayDataForSelection") {
+    console.log("I am here")
   }
 
   success()
@@ -32,6 +22,7 @@ var flowCallback = function(dto, success, error) {
 
 window.onload = function() {
     window.stepCall = "verification"
+    window.iotSelectionMade = ""
 
     var conversationalForm = window.cf.ConversationalForm.startTheConversation({
       formEl: document.getElementById("form"),

@@ -23,10 +23,14 @@
 
     <cf-robot-message cf-questions="Ok, what are you looking for in the City of Albemarle IoT devices?"></cf-robot-message>
 
-    <input type="radio" name="searchFor" id="vmax-cameras" value="vmax-cameras" cf-label="V MAX Cameras" />
-    <input type="radio" name="searchFor" id="all-port-eighty" value="all-port-eighty" cf-label="All Port 80s" />
-    <input type="radio" name="searchFor" id="linksys-routers" value="linksys-routers" cf-label="Linksys Routers" />
-    <p></p>
+    <input type="radio" name="searchFor" id="vmax-cameras" value="vmax-cameras" cf-label="V MAX Cameras"></input>
+    <input type="radio" name="searchFor" id="all-port-eighty" value="all-port-eighty" cf-label="All Port 80s"></input>
+    <input type="radio" name="searchFor" id="linksys-routers" value="linksys-routers" cf-label="Linksys Routers"></input>
+
+    <cf-robot-message cf-questions="The default username for VMAX Cameras is admin" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
+    <cf-robot-message cf-questions="The default password for VMAX Cameras is none(blank)" cf-conditional-searchFor="vmax-cameras"></cf-robot-message>
+
+
   </form>
   <div id="cf-context" role="cf-context" cf-context></div>
 
