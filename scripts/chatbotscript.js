@@ -7,9 +7,17 @@ var flowCallback = function(dto, success, error) {
     for(var i = 0; i < iotOptions.length; i++) {
 
       if(iotOptions[i].checked) {
-        console.log(iotOptions[i].value)
-        break;
+        var checkedOption = iotOptions[i].value
         
+        if(checkedOption == "vmax-cameras") {
+          console.log("You Selected VMAX Camera")
+        } else if(checkedOption == "all-port-eighty") {
+          console.log("You Selected All Port Eighty")
+        } else if(checkedOption == "linksys-routers") {
+          console.log("You selected linksys routers")
+        }
+        break;
+
       }
     }
   }
