@@ -1,0 +1,777 @@
+[
+  {
+    "IP": "173.95.112.234",
+    "ORG": "Spectrum Business",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "40.137.136.37",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/7.5"
+  },
+  {
+    "IP": "173.95.112.155",
+    "ORG": "Spectrum Business",
+    "Server": ""
+  },
+  {
+    "IP": "70.60.114.202",
+    "ORG": "Spectrum Business",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "68.115.187.188",
+    "ORG": "Spectrum",
+    "Server": "Apache/2.4.18 (Ubuntu)"
+  },
+  {
+    "IP": "24.172.85.50",
+    "ORG": "Spectrum Business",
+    "Server": "Microsoft-HTTPAPI/2.0"
+  },
+  {
+    "IP": "69.132.79.102",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "70.63.100.213",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "24.199.213.18",
+    "ORG": "Spectrum Business",
+    "Server": "Microsoft-IIS/10.0"
+  },
+  {
+    "IP": "71.75.191.78",
+    "ORG": "Spectrum",
+    "Server": "DNVRS-Webs"
+  },
+  {
+    "IP": "173.95.112.222",
+    "ORG": "Spectrum Business",
+    "Server": ""
+  },
+  {
+    "IP": "69.132.79.49",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "40.137.138.51",
+    "ORG": "Windstream Communications",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "166.82.89.139",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/7.5"
+  },
+  {
+    "IP": "71.71.168.222",
+    "ORG": "Spectrum",
+    "Server": "Microsoft-IIS/10.0"
+  },
+  {
+    "IP": "24.199.133.118",
+    "ORG": "Spectrum Business",
+    "Server": ""
+  },
+  {
+    "IP": "166.82.89.144",
+    "ORG": "Windstream Communications",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "166.82.89.41",
+    "ORG": "Windstream Communications",
+    "Server": "GoAhead-Webs"
+  },
+  {
+    "IP": "24.199.240.161",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "71.75.176.132",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "71.75.189.101",
+    "ORG": "Spectrum",
+    "Server": "Boa/0.94.14rc21"
+  },
+  {
+    "IP": "70.63.99.145",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "71.75.181.165",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "69.132.79.113",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "70.62.91.157",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "152.27.54.34",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "nginx/1.10.1"
+  },
+  {
+    "IP": "40.130.14.66",
+    "ORG": "Windstream Communications",
+    "Server": "ADTRAN"
+  },
+  {
+    "IP": "40.137.138.48",
+    "ORG": "Windstream Communications",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "40.137.138.49",
+    "ORG": "Windstream Communications",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "152.27.52.221",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Microsoft-IIS/10.0"
+  },
+  {
+    "IP": "166.82.93.128",
+    "ORG": "Windstream Communications",
+    "Server": ""
+  },
+  {
+    "IP": "173.95.77.99",
+    "ORG": "Spectrum Business",
+    "Server": "lighttpd"
+  },
+  {
+    "IP": "40.130.15.200",
+    "ORG": "Windstream Communications",
+    "Server": ""
+  },
+  {
+    "IP": "70.61.100.229",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "152.27.54.31",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache"
+  },
+  {
+    "IP": "69.132.97.134",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "68.115.187.82",
+    "ORG": "Spectrum",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "152.27.54.23",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": ""
+  },
+  {
+    "IP": "152.27.54.27",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache/2.2.22 (Debian)"
+  },
+  {
+    "IP": "152.27.54.29",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Microsoft-IIS/10.0"
+  },
+  {
+    "IP": "24.123.185.97",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "69.132.67.221",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "71.75.183.196",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "69.132.73.8",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.39"
+  },
+  {
+    "IP": "152.27.54.19",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache"
+  },
+  {
+    "IP": "74.218.226.77",
+    "ORG": "Spectrum Business",
+    "Server": "DNVRS-Webs"
+  },
+  {
+    "IP": "71.75.186.188",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "174.130.130.129",
+    "ORG": "Windstream Communications",
+    "Server": "KS_HTTP/1.0"
+  },
+  {
+    "IP": "24.123.185.100",
+    "ORG": "Spectrum Business",
+    "Server": "DNVRS-Webs"
+  },
+  {
+    "IP": "71.75.182.212",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "71.31.65.127",
+    "ORG": "Windstream Communications",
+    "Server": "Allegro-Software-RomPager/4.34"
+  },
+  {
+    "IP": "152.27.54.100",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache"
+  },
+  {
+    "IP": "69.132.69.109",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "152.27.52.242",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Microsoft-IIS/8.5"
+  },
+  {
+    "IP": "71.71.168.172",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "68.115.187.26",
+    "ORG": "Spectrum",
+    "Server": "Boa/0.94.14rc21"
+  },
+  {
+    "IP": "74.218.251.162",
+    "ORG": "Spectrum Business",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "70.61.110.20",
+    "ORG": "Spectrum Business",
+    "Server": "Quest Controls"
+  },
+  {
+    "IP": "152.27.54.206",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "152.27.54.107",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache/2.4.7 (Ubuntu)"
+  },
+  {
+    "IP": "70.63.107.241",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "70.63.107.242",
+    "ORG": "Spectrum Business",
+    "Server": ""
+  },
+  {
+    "IP": "152.27.54.7",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache/2.4.7 (Ubuntu)"
+  },
+  {
+    "IP": "166.82.95.230",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/8.5"
+  },
+  {
+    "IP": "70.60.121.1",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "68.115.187.30",
+    "ORG": "Spectrum",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "40.137.136.80",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/10.0"
+  },
+  {
+    "IP": "174.131.132.226",
+    "ORG": "Windstream Communications",
+    "Server": "uhttpd/1.0.0"
+  },
+  {
+    "IP": "40.130.15.98",
+    "ORG": "Windstream Communications",
+    "Server": "xxxxxxxx-xxxxx"
+  },
+  {
+    "IP": "69.132.97.165",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "71.75.182.50",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "166.82.90.234",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/7.5"
+  },
+  {
+    "IP": "166.82.93.170",
+    "ORG": "Windstream Communications",
+    "Server": "micro_httpd"
+  },
+  {
+    "IP": "71.75.177.17",
+    "ORG": "Spectrum",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "69.132.77.160",
+    "ORG": "Spectrum",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "70.63.142.129",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "71.75.187.140",
+    "ORG": "Spectrum",
+    "Server": "PRAVIS/1.0"
+  },
+  {
+    "IP": "152.27.54.224",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Microsoft-IIS/8.5"
+  },
+  {
+    "IP": "166.82.218.236",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/7.5"
+  },
+  {
+    "IP": "69.132.71.146",
+    "ORG": "Spectrum",
+    "Server": "Apache"
+  },
+  {
+    "IP": "166.82.218.238",
+    "ORG": "Windstream Communications",
+    "Server": "Apache"
+  },
+  {
+    "IP": "98.101.162.166",
+    "ORG": "Spectrum Business",
+    "Server": "AOLserver/4.5.1"
+  },
+  {
+    "IP": "71.75.182.35",
+    "ORG": "Spectrum",
+    "Server": "Apache"
+  },
+  {
+    "IP": "69.132.71.196",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "24.172.118.173",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "71.71.169.73",
+    "ORG": "Spectrum",
+    "Server": "Microsoft-IIS/6.0"
+  },
+  {
+    "IP": "69.132.68.76",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "166.82.89.145",
+    "ORG": "Windstream Communications",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "69.132.70.9",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "69.132.68.2",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "98.101.75.37",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "173.188.173.65",
+    "ORG": "Windstream Communications",
+    "Server": "PRAVIS/1.0"
+  },
+  {
+    "IP": "166.82.218.230",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-HTTPAPI/2.0"
+  },
+  {
+    "IP": "68.115.187.194",
+    "ORG": "Spectrum",
+    "Server": "nginx/1.8.0"
+  },
+  {
+    "IP": "166.82.218.232",
+    "ORG": "Windstream Communications",
+    "Server": ""
+  },
+  {
+    "IP": "71.71.173.183",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "69.132.79.236",
+    "ORG": "Spectrum",
+    "Server": "nginx"
+  },
+  {
+    "IP": "71.75.188.52",
+    "ORG": "Spectrum",
+    "Server": "PRAVIS/1.0"
+  },
+  {
+    "IP": "96.10.99.206",
+    "ORG": "Spectrum Business",
+    "Server": ""
+  },
+  {
+    "IP": "68.115.187.214",
+    "ORG": "Spectrum",
+    "Server": "Microsoft-IIS/8.5"
+  },
+  {
+    "IP": "152.27.52.223",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Microsoft-IIS/10.0"
+  },
+  {
+    "IP": "98.101.19.13",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "69.132.77.115",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "71.71.172.0",
+    "ORG": "Spectrum",
+    "Server": "dcs-lig-httpd"
+  },
+  {
+    "IP": "69.132.64.42",
+    "ORG": "Spectrum",
+    "Server": "PRAVIS/1.0"
+  },
+  {
+    "IP": "69.132.72.157",
+    "ORG": "Spectrum",
+    "Server": "alphapd"
+  },
+  {
+    "IP": "69.132.75.119",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "66.57.102.237",
+    "ORG": "Spectrum Business",
+    "Server": "DNVRS-Webs"
+  },
+  {
+    "IP": "71.75.178.140",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "70.62.75.5",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "71.75.186.60",
+    "ORG": "Spectrum",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "69.132.72.103",
+    "ORG": "Spectrum",
+    "Server": "DNVRS-Webs"
+  },
+  {
+    "IP": "173.95.74.113",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "173.95.42.190",
+    "ORG": "Spectrum Business",
+    "Server": "DNVRS-Webs"
+  },
+  {
+    "IP": "71.71.170.123",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "166.82.218.235",
+    "ORG": "Windstream Communications",
+    "Server": "Microsoft-IIS/7.5"
+  },
+  {
+    "IP": "152.27.54.202",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "nginx"
+  },
+  {
+    "IP": "69.132.74.86",
+    "ORG": "Spectrum",
+    "Server": "PRAVIS/1.0"
+  },
+  {
+    "IP": "152.27.52.56",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Microsoft-IIS/7.0"
+  },
+  {
+    "IP": "71.71.170.98",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "152.27.54.106",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "Apache/2.4.18 (Ubuntu)"
+  },
+  {
+    "IP": "98.101.73.108",
+    "ORG": "Spectrum Business",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "152.27.54.42",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": ""
+  },
+  {
+    "IP": "71.75.181.76",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "98.101.83.210",
+    "ORG": "Spectrum Business",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "69.132.67.158",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "68.115.187.206",
+    "ORG": "Spectrum",
+    "Server": "cisco-IOS"
+  },
+  {
+    "IP": "166.82.89.146",
+    "ORG": "Windstream Communications",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "69.132.77.230",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "70.61.115.217",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "198.24.86.165",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "40.137.138.50",
+    "ORG": "Windstream Communications",
+    "Server": "Boa/0.94.13"
+  },
+  {
+    "IP": "71.71.172.106",
+    "ORG": "Spectrum",
+    "Server": "uc-httpd 1.0.0"
+  },
+  {
+    "IP": "70.63.231.102",
+    "ORG": "Spectrum Business",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "173.95.2.233",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "70.63.225.157",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "152.27.54.200",
+    "ORG": "North Carolina Research and Education Network",
+    "Server": "nginx"
+  },
+  {
+    "IP": "69.132.72.183",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "68.115.187.35",
+    "ORG": "Spectrum",
+    "Server": "mini_httpd/1.19 19dec2003"
+  },
+  {
+    "IP": "173.95.112.169",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "69.132.66.47",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "173.95.112.145",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "69.132.70.167",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "68.115.187.98",
+    "ORG": "Spectrum",
+    "Server": "SonicWALL"
+  },
+  {
+    "IP": "166.82.218.227",
+    "ORG": "Windstream Communications",
+    "Server": ""
+  },
+  {
+    "IP": "166.82.218.233",
+    "ORG": "Windstream Communications",
+    "Server": ""
+  },
+  {
+    "IP": "69.132.79.104",
+    "ORG": "Spectrum",
+    "Server": "Apache"
+  },
+  {
+    "IP": "69.132.74.64",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "71.75.188.95",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.35"
+  },
+  {
+    "IP": "69.132.71.73",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "71.75.182.66",
+    "ORG": "Spectrum",
+    "Server": "PRAVIS/1.0"
+  },
+  {
+    "IP": "69.132.74.237",
+    "ORG": "Spectrum",
+    "Server": "lighttpd/1.4.39"
+  },
+  {
+    "IP": "74.218.253.17",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  },
+  {
+    "IP": "71.71.175.77",
+    "ORG": "Spectrum",
+    "Server": ""
+  },
+  {
+    "IP": "98.101.128.129",
+    "ORG": "Spectrum Business",
+    "Server": "UPnP/1.0 UPnP-Device-Host/1.0"
+  }
+]
