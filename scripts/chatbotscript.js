@@ -11,8 +11,9 @@ var flowCallback = function(dto, success, error) {
         
         if(checkedOption == "vmax-cameras") {
           window.ConversationalForm.addRobotChatResponse("Ok, let's grab all the VMAX Cameras")
-          window.ConversationalForm.addRobotChatResponse("The default username for VMAX Cameras is admin")
-          window.ConversationalForm.addRobotChatResponse("There is no default password for VMAX Cameras")
+          .then(function() {
+            window.ConversationalForm.addRobotChatResponse("The default username for VMAX Cameras is admin")
+          })
 
         } else if(checkedOption == "all-port-eighty") {
           console.log("You Selected All Port Eighty")
