@@ -1,6 +1,6 @@
 var flowCallback = function(dto, success, error) {
 
-  if(stepCall == "iotSelect") {
+  if(window.stepCall == "iotSelect") {
 
     var iotOptions = document.getElementsByName('searchFor')
     console.log(iotOptions)
@@ -12,7 +12,7 @@ var flowCallback = function(dto, success, error) {
 
 
 window.onload = function() {
-    var stepCall = "iotSelect"
+    window.stepCall = "iotSelect"
 
     var conversationalForm = window.cf.ConversationalForm.startTheConversation({
       formEl: document.getElementById("form"),
